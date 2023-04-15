@@ -1,0 +1,20 @@
+def comenzi():
+    print("comenzile disponibile sunt:\n"
+          "adauga_student-adauga un student\n"
+          "sterge_student-sterge un student dupa id\n"
+          "modifica_student-modifica un student \n"
+          "print_studenti-afiseaza toti studentii\n"
+          "cauta_student_dupa_id-afiseaza un student\n"
+          "adauga_problema-adauga o problema\n"
+          "sterge_problema-sterge o problema dupa id\n"
+          "modifica_problema-modifica o problema \n"
+          "print_probleme-afiseaza toate problemele\n"
+          "cauta_probleme_dupa_id-afiseaza o problema\n"
+          "print_note_student-afisaeaza notele unui student\n"
+          "atribuie_laborator_student-asigneaza o problema unui student\n"
+          "restanti-afiseaza studentii restanti\n"
+          "note_problema_alfabetic-afiseaza notele la o problema in ordine alfabetica a numelor studentilor\n"
+          "note_problema_crescator-afiseaza notele la o problema in ordine crescatoare a notelor\n"
+          "adauga_nota-atribuie o nota unui student"
+
+          )
